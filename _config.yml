@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olivia Angelin-Bonnet profile"
+title                    : "Olivia Angelin-Bonnet"
 title_separator          : "-"
 name                     : &name "Olivia Angelin-Bonnet"
 description              : &description "PhD Students in Biostatistics"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "AngelinBonnet"
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dhURnRkAAAAJ&hl=en"
-  email            :
+  email            : "angelin-bonnet@massey.ac.nz"
   researchgate     :  "https://www.researchgate.net/profile/Olivia_Angelin-Bonnet"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/olivia-angelin-bonnet-294502109/?originalSubdomain=nz"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7708-2919"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AngelinBonnet"
   vine             :
   weibo            :
   xing             :
