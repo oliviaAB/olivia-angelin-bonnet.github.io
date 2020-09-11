@@ -47,6 +47,7 @@ Skills
 
 Publications
 ======
+{% include publications.md %}
 {% comment %}
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
