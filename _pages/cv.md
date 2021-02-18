@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* **PhD** in Statistics - Massey University (Palmerston North, Norway), 2017-present
+* **PhD** in Statistics - Massey University (Palmerston North, New Zealand), 2017-present
 * **Exchange semester** - University of Stavanger (Stavanger, Norway), 2016
 * **Engineering degree (master equivalence)** in Bioinformatics and modelling - INSA de Lyon (Lyon, France), 2012 - 2017
 
 
 Work experience
 ======
+* **Lecturer in Statistics** - Massey University (Palmerston North, New Zealand), January-December 2021
+  * Preparation and delivery of lectures in statistics for first, second and third year undergraduate and masters level   
+
 * **Tutor** - Massey University (Palmerston North, New Zealand), July-August 2020
   * Preparation and delivery of lectures for statistial models course, assignment marking
   
@@ -56,18 +59,17 @@ Publications
 Talks
 ======
 
-{% comment %}
-* **UCLA - Research Frontiers in Biomathematics Seminar** (expected November 2020)
-  * Gene Regulatory Networks Simulation (speaker)
- {% endcomment %}
 
-* **NeSI webinar series** - online - (expected October 2020)
-  * Simulating Gene Regulatory Networks on HPC (speaker)
+* **UCLA Computational Medicine - Research Frontiers in Biomathematics Seminar** (November 2020)
+  * Gene Regulatory Networks Simulation (speaker)
+
+* **NeSI webinar series** - online - (October 2020)
+  * Simulating Gene Regulatory Networks on HPC (speaker) - watch the recording [here](https://www.youtube.com/watch?v=ydeeOlGOC4U)
 
 * **Thematic Month on Mathematical Issues in Biology – CIRM** - Marseille, France - February-March 2020
   * Simulating post-transcriptional regulation, ploidy and more with the sismonr package (poster)
 
-* **New Zealand Statistical Association (NZSA) 2019** - Dunedin, New Zealand - 
+* **New Zealand Statistical Association (NZSA) 2019** - Dunedin, New Zealand - November 2019
   * Causal Inference of Gene Regulatory Networks (oral presentation)
   * Honourable Mention Student Talk Award
 
@@ -76,7 +78,7 @@ Talks
 
 * **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2019** - Madrid, Spain - December 2018
  * The sismonr package: Simulation of In Silico Multi-Omic Networks in R (poster)
- * Grant: Massey University Postgraduate Travel Gran
+ * Grant: Massey University Postgraduate Travel Grant
  * Program Committee member of the associated *Workshop on challenges and opportunities in Large Scale Network Analysis in Systems Biology*
 
 * **New Zealand Statistical Association (NZSA) 2018** - Palmerston North, New Zealand - November 2018
