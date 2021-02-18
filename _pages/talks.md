@@ -35,9 +35,9 @@ author_profile: true
 &nbsp;  
 
 * **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2019** &mdash; Madrid, Spain &mdash; December 2018
- * The sismonr package: Simulation of In Silico Multi-Omic Networks in R (poster)
- * Grant: Massey University Postgraduate Travel Grant
- * Program Committee member of the associated *Workshop on challenges and opportunities in Large Scale Network Analysis in Systems Biology*
+  * The sismonr package: Simulation of In Silico Multi-Omic Networks in R (poster)
+  * Grant: Massey University Postgraduate Travel Grant
+  * Program Committee member of the associated *Workshop on challenges and opportunities in Large Scale Network Analysis in Systems Biology*
 
 &nbsp;  
 
