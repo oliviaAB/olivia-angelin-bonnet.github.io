@@ -5,49 +5,49 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% comment %}
-* **UCLA - Research Frontiers in Biomathematics Seminar** (expected November 2020)
+* **UCLA Computational Medicine - Research Frontiers in Biomathematics Seminar** &mdash; online &mdash; November 2020
   * Gene Regulatory Networks Simulation (speaker)
-
-&nbsp;   
- {% endcomment %}
-
-* **NeSI webinar series** - online - (expected October 2020)
-  * Simulating Gene Regulatory Networks on HPC (speaker)
 
 &nbsp;  
 
-* **Thematic Month on Mathematical Issues in Biology – CIRM** - Marseille, France - February-March 2020
+
+* **NeSI webinar series** &mdash; online &mdash; October 2020
+  * Simulating Gene Regulatory Networks on HPC (speaker) &mdash; watch the recording [here](https://www.youtube.com/watch?v=ydeeOlGOC4U)
+
+&nbsp;  
+
+
+* **Thematic Month on Mathematical Issues in Biology – CIRM** &mdash; Marseille, France &mdash; February-March 2020
   * Simulating post-transcriptional regulation, ploidy and more with the sismonr package (poster)
 
 &nbsp;  
 
 
-* **New Zealand Statistical Association (NZSA) 2019** - Dunedin, New Zealand - 
+* **New Zealand Statistical Association (NZSA) 2019** &mdash; Dunedin, New Zealand &mdash; November 2019
   * Causal Inference of Gene Regulatory Networks (oral presentation)
   * Honourable Mention Student Talk Award
 
 &nbsp;  
 
-* **DECO2019 - The Interface of Mathematics and Biology** - Napier, New Zealand - February 2019
+* **DECO2019 - The Interface of Mathematics and Biology** &mdash; Napier, New Zealand &mdash; February 2019
   * Simulating gene expression profiles with the R package sismonr (oral presentation)
 
 &nbsp;  
 
-* **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2019** - Madrid, Spain - December 2018
+* **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2019** &mdash; Madrid, Spain &mdash; December 2018
  * The sismonr package: Simulation of In Silico Multi-Omic Networks in R (poster)
- * Grant: Massey University Postgraduate Travel Gran
+ * Grant: Massey University Postgraduate Travel Grant
  * Program Committee member of the associated *Workshop on challenges and opportunities in Large Scale Network Analysis in Systems Biology*
 
 &nbsp;  
 
-* **New Zealand Statistical Association (NZSA) 2018** - Palmerston North, New Zealand - November 2018
+* **New Zealand Statistical Association (NZSA) 2018** &mdash; Palmerston North, New Zealand &mdash; November 2018
   * How R and Julia hang out together to simulate complex (oral presentation)
   * Won the Best Student Talk Award
 
 &nbsp;  
 
-* **New Zealand Mathematics and Statistics Postgraduate Conference (NZMASP) 2018** - Waikanae, New Zealand - November 2018
+* **New Zealand Mathematics and Statistics Postgraduate Conference (NZMASP) 2018** &mdash; Waikanae, New Zealand &mdash; November 2018
   * How R and Julia hang out together to simulate complex (oral presentation)
   * Member of the Organising Committee
 
